@@ -1,6 +1,5 @@
 
 # Hello World
 
-This is a completely changed version of the
-file that we are going to save in a branch of
-the working directory.
+This is a README.md file that will be used to describe this
+repository on GitHu
