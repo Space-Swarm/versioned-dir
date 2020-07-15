@@ -10,3 +10,5 @@ For example, in this first version of the file we
 will say that the cat goes woof.
 
 This is a new line
+
+A new change
