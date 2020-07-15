@@ -2,4 +2,6 @@ git init
 git status
 git commit -a
 git diff
-git checkout
+git checkout file
+git checkout version
+git checkout master
